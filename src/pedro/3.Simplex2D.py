@@ -122,19 +122,18 @@ class GScene(GraphScene):
             *[FadeOut(mob) for mob in self.mobjects]
         )
 
-        n = 3
-        n_var = Variable(n, "n", var_type=Integer).center()
+        l1 = MathTex("n=3").center()
 
         self.play(
-            Write(n_var)
+            Write(l1)
         )
 
         self.wait(2)
         self.play(
-            n_var.animate.to_edge(UP + RIGHT)
+            l1.animate.to_edge(UP + RIGHT)
         )
 
-        rect = SurroundingRectangle(n_var, color=WHITE, stroke_width=2)
+        rect = SurroundingRectangle(l1, color=WHITE, stroke_width=2)
         self.play(
             Create(rect)
         )
