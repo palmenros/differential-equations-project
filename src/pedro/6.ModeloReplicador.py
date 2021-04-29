@@ -3,7 +3,10 @@ from manim import *
 
 class EDScene(Scene):
     def construct(self):
-        title = TextMobject("Modelo del replicador").to_edge(UP + LEFT)
+
+        title = TextMobject("Modelo del replicador")
+        title.scale(1.5)
+        title.to_edge(UP + LEFT).scale(1 / 1.5)
         self.add(title)
 
         text = Tex("Cada tipo tiene una estrategia fija $\in \, \Delta^n$ (pura o mixta)", color=BLUE)
