@@ -57,7 +57,7 @@ class EDScene(Scene):
 
         VGroup(tex1, tex2).arrange(DOWN).center().shift(0.7 * UP)
         brace = BraceLabel(tex2,
-                           r"$\vec{x}^*$ es el mejor estado en cualquier entorno suyo",
+                           r"$\vec{x}^*$ es el mejor estado en algún entorno suyo",
                            DOWN, label_constructor=Tex, color=BLUE)
         brace.label.set_color(BLUE)
 
