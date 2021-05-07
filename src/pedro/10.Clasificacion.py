@@ -129,7 +129,7 @@ class EDScene(Scene):
             Create(brace)
         )
 
-        self.wait(3)
+        self.wait(8)
 
         self.play(
             *[FadeOut(mob) for mob in self.mobjects if mob is not title]
@@ -150,7 +150,7 @@ class EDScene(Scene):
             Create(brace)
         )
 
-        self.wait(3)
+        self.wait(8)
 
         self.play(
             *[FadeOut(mob) for mob in self.mobjects if mob is not title]
@@ -224,7 +224,7 @@ class EDScene(Scene):
             t1.animate.shift(LEFT * 0.3),
             t2.animate.shift(RIGHT * 0.3),
             t3.animate.shift(RIGHT * 0.3),
-            run_time=4,
+            run_time=6,
             rate_functions=linear
         )
 
@@ -267,6 +267,8 @@ class EDScene(Scene):
         t3 = Polygon(p3 + LEFT * 2 * length, p3 + UP * length, p3 + DOWN * length, color=PURPLE, fill_color=PURPLE,
                      fill_opacity=1)
 
+        dp0_tex.next_to(d1, UP)
+
         self.play(
             Create(t),
             Create(t1),
@@ -276,7 +278,7 @@ class EDScene(Scene):
             Create(d1),
             Create(d2),
             Create(dp0_tex),
-            Create(dp1_tex)
+           # Create(dp1_tex)
         )
 
         self.play(
@@ -284,7 +286,7 @@ class EDScene(Scene):
             t1.animate.shift(RIGHT * 0.3),
             t2.animate.shift(LEFT * 0.3),
             t3.animate.shift(LEFT * 0.3),
-            run_time=4,
+            run_time=6,
             rate_functions=linear
         )
 
@@ -309,11 +311,13 @@ class EDScene(Scene):
             FadeOut(d1),
             FadeOut(d2),
             FadeOut(dp0_tex),
-            FadeOut(dp1_tex),
+           # FadeOut(dp1_tex),
             ReplacementTransform(tex2, tex3),
             ReplacementTransform(name2, name3),
             ReplacementTransform(mat2, mat3)
         )
+
+        dp0_tex.next_to(dp0, UP)
 
         p = unitInterval.number_to_point(0.7 - 0.15 * 3)
         p1 = unitInterval.number_to_point(0.7 - 0.15 * 2)
@@ -346,7 +350,7 @@ class EDScene(Scene):
             t1.animate.shift(LEFT * 0.3),
             t2.animate.shift(LEFT * 0.3),
             t3.animate.shift(LEFT * 0.3),
-            run_time=4,
+            run_time=6,
             rate_functions=linear
         )
 
@@ -409,7 +413,7 @@ class EDScene(Scene):
             t1.animate.shift(RIGHT * 0.3),
             t2.animate.shift(RIGHT * 0.3),
             t3.animate.shift(RIGHT * 0.3),
-            run_time=4,
+            run_time=6,
             rate_functions=linear
         )
 
