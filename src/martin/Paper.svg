@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg1468"
+   sodipodi:docname="Paper.svg"
+   viewBox="0 0 128 128"
+   sodipodi:version="0.32"
+   version="1.0"
+   y="0"
+   x="0"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   width="128"
+   height="128">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1294"
+     pagecolor="#ffffff"
+     inkscape:zoom="1.8346667"
+     inkscape:window-x="72"
+     borderopacity="1.0"
+     inkscape:current-layer="svg1468"
+     inkscape:cx="93.750002"
+     inkscape:cy="93.750002"
+     inkscape:window-y="27"
+     inkscape:window-height="704"
+     inkscape:pageopacity="0.0"
+     showgrid="false"
+     inkscape:window-maximized="1" />
+  <g
+     id="layer1"
+     transform="matrix(1.0882509,0,0,1.0882509,-40.317401,-33.298149)">
+    <g
+       id="g2265"
+       transform="matrix(0.78306,0,0,0.78306,28.587,-135.63)">
+      <path
+         id="rect2194"
+         style="fill:#ffffff;stroke:#000000;stroke-width:3.85879993;stroke-linejoin:round"
+         d="m 31.742,214.36 h 81.388 l -1.89,30.57 29.02,-0.07 v 115.5 H 31.74 Z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path2199"
+         style="fill:none;stroke:#000000;stroke-width:4.25;stroke-linecap:round"
+         d="m 112.81,215.01 26.91,28.67"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Paper 1 icon</dc:title>
+        <dc:date>2006-12-26T00:00:00</dc:date>
+        <dc:description />
+        <dc:source>https://openclipart.org/detail/24773/-by--24773</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Anonymous</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

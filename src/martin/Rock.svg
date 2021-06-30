@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="128"
+   height="128"
+   viewBox="0 0 95.999997 95.999997"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg20"
+   sodipodi:docname="rock.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs24" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1294"
+     inkscape:window-height="704"
+     id="namedview22"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="147.68265"
+     inkscape:cy="86.490878"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg20" />
+  <metadata
+     id="metadata2">
+Created by potrace 1.15, written by Peter Selinger 2001-2017
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <g
+     transform="matrix(0.0295682,0,0,-0.0295682,-7.6801295,124.35456)"
+     id="g18"
+     style="fill:#000000;stroke:none">
+    <path
+       d="m 2114,3570 c -28,-4 -59,-12 -70,-18 -11,-6 -47,-17 -80,-26 -69,-18 -254,-103 -332,-153 -87,-55 -231,-188 -322,-296 -47,-55 -128,-139 -180,-185 -52,-47 -147,-132 -211,-191 -192,-175 -225,-201 -312,-241 -91,-42 -220,-124 -254,-161 -47,-52 -55,-126 -27,-265 14,-72 22,-89 65,-142 56,-67 170,-162 239,-197 68,-34 139,-52 294,-75 323,-46 457,-46 659,1 96,23 214,23 482,0 146,-13 415,-1 544,25 40,7 87,14 105,14 47,0 145,28 176,50 15,11 73,42 128,70 168,84 258,162 299,260 8,19 26,50 40,68 38,50 72,132 77,187 3,28 10,77 16,110 16,97 6,130 -70,235 -27,36 -67,104 -89,152 -50,105 -113,174 -199,217 -84,43 -287,177 -386,257 -44,36 -112,86 -151,111 -38,26 -95,63 -125,83 -79,53 -217,120 -243,119 -12,-1 -45,-5 -73,-9 z"
+       id="path12"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
